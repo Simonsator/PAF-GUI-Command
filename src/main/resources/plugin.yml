@@ -1,0 +1,7 @@
+name: PAF-GUI-Commands
+version: ${project.version}
+author: Simonsator
+depends: [ PartyAndFriends ]
+depend: [ PartyAndFriends ]
+main: de.simonsator.partyandfriends.extensions.guicommand.GCPlugin
+description: An add-on for party and friends extended
